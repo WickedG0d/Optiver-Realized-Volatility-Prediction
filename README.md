@@ -11,4 +11,5 @@ Through this competition, you'll gain invaluable insight into volatility and fin
 
 
 Competition Link: https://www.kaggle.com/c/optiver-realized-volatility-prediction
+
 LinkedIn: https://www.linkedin.com/in/abbas-ali-jamadar-02682b174/
